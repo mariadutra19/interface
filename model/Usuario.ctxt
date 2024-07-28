@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Usuario
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=id
+comment2.target=void\ setId(int)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=nome
+comment4.target=void\ setNome(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getEmail()
+comment6.params=email
+comment6.target=void\ setEmail(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getSenha()
+comment8.params=senha
+comment8.target=void\ setSenha(java.lang.String)
+numComments=9
